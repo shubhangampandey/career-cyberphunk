@@ -12,7 +12,7 @@ export default async function HomePage() {
         <div className="absolute -bottom-40 -right-32 h-[28rem] w-[28rem] rounded-full bg-accent/20 blur-3xl" />
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-16 md:py-24">
           <h1 className="text-pretty text-4xl md:text-6xl font-semibold tracking-tight headline-wrap">
-            {"Guide your career with AI—tailored for India."}
+            {"Guide your career with AI—MargDarshan for India."}
           </h1>
           <p className="mt-5 text-lg text-muted-foreground max-w-2xl">
             {"From streams and exams to city choices and salaries—get a personalized, action-ready roadmap."}
